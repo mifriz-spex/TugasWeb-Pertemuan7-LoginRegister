@@ -46,7 +46,7 @@ if (isset($_SESSION['user'])) {
 
         <div class="flex flex-col space-y-4">
             <a href="login.php" class="w-full bg-magang-green-primary hover:bg-green-700 text-white font-bold py-3.5 rounded-xl transition duration-200 shadow-lg shadow-green-900/30">
-                Masuk (Login)
+                Login
             </a>
             <a href="register.php" class="w-full bg-transparent hover:bg-gray-800 text-gray-300 font-semibold py-3.5 rounded-xl transition duration-200 border border-gray-700 hover:border-gray-600">
                 Daftar Akun Baru
